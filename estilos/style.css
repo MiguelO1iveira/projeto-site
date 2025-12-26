@@ -18,3 +18,7 @@ main {
 h1 {
     font-size: 2em;
 }
+
+img.lado {
+    float: right;
+}
